@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+._*
+
+# Резервные копии
+*.bak
+*.bak.*
+*.old
+
+# Бэкапы ключей
+key_backup_*/
+known_hosts.bak.*
+
+# Логи и реестр
+*.log
+
+# Служебное
+.idea/
+.vscode/
+*.swp
