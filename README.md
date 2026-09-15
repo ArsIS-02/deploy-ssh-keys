@@ -122,7 +122,7 @@ server2.local
 ## Установка
 
 ```bash
-git clone https://github.com/<ваш-логин>/deploy-ssh-keys.git
+git clone https://github.com/ArsIS-02/deploy-ssh-keys.git
 cd deploy-ssh-keys
 chmod +x *.sh
 ```
@@ -130,8 +130,8 @@ chmod +x *.sh
 Или скачайте нужный скрипт напрямую:
 
 ```bash
-curl -O https://raw.githubusercontent.com/<ваш-логин>/deploy-ssh-keys/main/deploy_keys_macos.sh
-curl -O https://raw.githubusercontent.com/<ваш-логин>/deploy-ssh-keys/main/clean_known_hosts_macos.sh
+curl -O https://raw.githubusercontent.com/ArsIS-02/deploy-ssh-keys/main/deploy_keys_macos.sh
+curl -O https://raw.githubusercontent.com/ArsIS-02/deploy-ssh-keys/main/clean_known_hosts_macos.sh
 chmod +x *.sh
 ```
 
