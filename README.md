@@ -164,7 +164,7 @@ chmod +x *.sh
 
 ## Лицензия
 
-MIT — см. [LICENSE](LICENSE).
+GPL-3.0 — см. [LICENSE](LICENSE).
 
 ## Вклад
 
